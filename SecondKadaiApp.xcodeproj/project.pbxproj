@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5C74B5C225B5CF5D00B92011 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C74B5C125B5CF5D00B92011 /* ResultViewController.swift */; };
 		5CE0B1C325B44EFA00980674 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE0B1C225B44EFA00980674 /* AppDelegate.swift */; };
 		5CE0B1C525B44EFA00980674 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE0B1C425B44EFA00980674 /* SceneDelegate.swift */; };
 		5CE0B1C725B44EFA00980674 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE0B1C625B44EFA00980674 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5C74B5C125B5CF5D00B92011 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		5CE0B1BF25B44EFA00980674 /* SecondKadaiApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SecondKadaiApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CE0B1C225B44EFA00980674 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5CE0B1C425B44EFA00980674 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				5CE0B1C225B44EFA00980674 /* AppDelegate.swift */,
 				5CE0B1C425B44EFA00980674 /* SceneDelegate.swift */,
+				5C74B5C125B5CF5D00B92011 /* ResultViewController.swift */,
 				5CE0B1C625B44EFA00980674 /* ViewController.swift */,
 				5CE0B1C825B44EFA00980674 /* Main.storyboard */,
 				5CE0B1CB25B44EFC00980674 /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				5CE0B1C725B44EFA00980674 /* ViewController.swift in Sources */,
 				5CE0B1C325B44EFA00980674 /* AppDelegate.swift in Sources */,
 				5CE0B1C525B44EFA00980674 /* SceneDelegate.swift in Sources */,
+				5C74B5C225B5CF5D00B92011 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
